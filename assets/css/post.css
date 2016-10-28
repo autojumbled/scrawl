@@ -383,7 +383,7 @@ h3 {
       -webkit-box-ordinal-group: 2;
           -ms-flex-order: 1;
               order: 1;
-      color: #EFEFEF; }
+      color: #EFEFEF; } /*Grey*/
     .authorship .name-date .post-date {
       -webkit-box-ordinal-group: 3;
           -ms-flex-order: 2;
@@ -428,7 +428,7 @@ h3 {
     text-align: right; }
   .next-post-wrapper a {
     width: 100%;
-    color: #254E70;
+    color: #D9A441;
     text-transform: uppercase;
     font-size: 1.5em; }
     @media screen and (max-width: 550px) {

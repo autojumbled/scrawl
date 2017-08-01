@@ -4,12 +4,16 @@
   "author":{
     "name": "Ben Tyrie",
     "email": "ben@autojumbled.co.uk",
-    "url": "www.autojumbled.co.uk",
+    "url": "www.autojumbled.co.uk"
+  },
   "contributors": "Kate Tweeden <ktweeden@gmail.com>",
   "repository":{
     "type": "git",
     "url": "https://github.com/autojumbled/scrawl"
   },
+  "config": {
+    "posts_per_page": 10
+  }
   "keywords":[
     "blog",
     "ghost",

@@ -14,9 +14,9 @@
   "config":{
     "posts_per_page": 10
   },
-  "keywords":{
+  "keywords":[
     "blog",
     "ghost",
     "theme"
-  },
+  ]
 }

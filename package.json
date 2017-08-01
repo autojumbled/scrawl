@@ -1,11 +1,14 @@
 {
-  "name":"scrawl",
-  "version":"1.0.2",
-  "author":"Kate Preston <ktweeden@gmail.com>",
-  "contributors": [],
+  "name":"autojumbled Ghost Theme",
+  "version":"1.0.0",
+  "author":{
+    "name": "Ben Tyrie",
+    "email": "ben@autojumbled.co.uk",
+    "url": "www.autojumbled.co.uk",
+  "contributors": "Kate Tweeden <ktweeden@gmail.com>",
   "repository":{
     "type": "git",
-    "url": "https://github.com/ktweeden/scrawl"
+    "url": "https://github.com/autojumbled/scrawl"
   },
   "keywords":[
     "blog",
